@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f273b3</color>
+    <color name="colorPrimaryDark">#a34bae</color>
+    <color name="colorAccent">#b498ec</color>
+    <color name="skinColor">#ffb9ad</color>
+    <color name="secondPink">#fb86f6</color>
+    <color name="darkPurple">#803C8C</color>
+<color name="gradientColor"/>
+    </resources>

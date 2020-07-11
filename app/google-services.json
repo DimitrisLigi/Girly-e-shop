@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056511979847",
+    "firebase_url": "https://girly-e-shop.firebaseio.com",
+    "project_id": "girly-e-shop",
+    "storage_bucket": "girly-e-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056511979847:android:5519ba4680601bbf9f9c62",
+        "android_client_info": {
+          "package_name": "com.example.girlyeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056511979847-0k6tubaq60tof3rot1qn97p3vv00nml5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH4fo32u6lYkwgr23dPeiKz_Y4d1orqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056511979847-0k6tubaq60tof3rot1qn97p3vv00nml5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
